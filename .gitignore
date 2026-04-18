@@ -1,0 +1,17 @@
+# deno
+.deno/
+deno.lock
+
+# compiled binary
+jwtpeek
+jwtpeek.exe
+
+# editor / os
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# env
+.env
+.env.*

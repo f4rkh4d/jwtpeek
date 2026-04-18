@@ -1,0 +1,23 @@
+{
+  "name": "@f4rkh4d/jwtpeek",
+  "version": "0.1.0",
+  "exports": "./cli.ts",
+  "tasks": {
+    "start": "deno run cli.ts",
+    "test": "deno test",
+    "compile": "deno compile -o jwtpeek cli.ts",
+    "fmt": "deno fmt",
+    "lint": "deno lint"
+  },
+  "fmt": {
+    "lineWidth": 100,
+    "indentWidth": 2,
+    "semiColons": true,
+    "singleQuote": false
+  },
+  "lint": {
+    "rules": {
+      "tags": ["recommended"]
+    }
+  }
+}
