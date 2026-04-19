@@ -4,8 +4,8 @@ thanks for wanting to help.
 
 ## bug reports
 
-open an issue. include what you ran, what you expected, and what happened.
-screenshots or terminal output are great.
+open an issue. include what you ran, what you expected, and what happened. screenshots or terminal
+output are great.
 
 ## pull requests
 

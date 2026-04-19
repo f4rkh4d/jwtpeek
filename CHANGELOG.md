@@ -1,7 +1,7 @@
 # changelog
 
-all notable changes to this project are documented here.
-format: [keep a changelog](https://keepachangelog.com/en/1.1.0/).
+all notable changes to this project are documented here. format:
+[keep a changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [unreleased]
 
