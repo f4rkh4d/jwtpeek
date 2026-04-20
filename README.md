@@ -95,4 +95,4 @@ no runtime deps. tests use deno std assert.
 
 ## license
 
-MIT — farkhad
+MIT. farkhad
